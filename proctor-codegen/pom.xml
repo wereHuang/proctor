@@ -19,7 +19,7 @@
         <dependency>
             <groupId>${project.groupId}</groupId>
             <artifactId>proctor-common</artifactId>
-            <version>${project.version}</version>
+            <version>1.1.21</version>
         </dependency>
         <dependency>
             <groupId>${project.groupId}</groupId>
